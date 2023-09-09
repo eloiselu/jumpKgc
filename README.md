@@ -2,7 +2,7 @@
 
 After dismantling the previously learned small demo, I am submitting it as a small project separately.
 
-Link: eloiselu.github.io/jumpKgc/
+Link: https://eloiselu.github.io/jumpKgc/
 
 During my previous HTML5 learning, I came across this case on Course Factory, and it looked really beautiful. I decided to imitate it.
 
